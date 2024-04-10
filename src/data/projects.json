@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Youtube Comment Analyzer Using NLP",
+    "imageSrc": "projects/Comment-Analyzer.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node","python","MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Rudrakumarpatel/YT_Comment_-Analyzer.git"
+  },
+  {
+    "title": "Social Media",
+    "imageSrc": "projects/Social_Media.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "css","MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Rudrakumarpatel/DuHacks3.0-Socai-Media-.git"
+  },
+  {
+    "title": "Chat App",
+    "imageSrc": "projects/Chat-App.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Spring boot","MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Rudrakumarpatel/Full-stack-project-springboot-ChatApp.git"
+  }
+]
