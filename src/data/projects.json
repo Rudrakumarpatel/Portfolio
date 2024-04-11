@@ -19,7 +19,7 @@
     "title": "Chat App",
     "imageSrc": "projects/Chat-App.png",
     "description": "Building a chat application offers benefits such as facilitating real-time communication, fostering collaboration, and enhancing customer support.",
-    "skills": ["React", "Spring boot","MySQL"],
+    "skills": ["React","Tailwind", "Spring boot","MySQL"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Rudrakumarpatel/Full-stack-project-springboot-ChatApp.git"
   }
