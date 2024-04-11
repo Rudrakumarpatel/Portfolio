@@ -12,10 +12,10 @@ const route = createBrowserRouter([
     path: "/",
     element:<App></App>
   },
-  {
-    path:"/Resume",
-    element:<Resume></Resume> 
-  }
+  // {
+  //   path:"/Resume",
+  //   element:<Resume></Resume> 
+  // }
 ])
 
 ReactDOM.createRoot(document.getElementById("root")).render(
