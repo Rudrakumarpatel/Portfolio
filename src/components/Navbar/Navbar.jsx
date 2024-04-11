@@ -39,6 +39,9 @@ export const Navbar = () => {
           <li>
             <a href="#contact">Contact</a>
           </li>
+          <li>
+            <Link to="/Resume">Resume</Link>
+          </li>
         </ul>
       </div>
     </nav>
