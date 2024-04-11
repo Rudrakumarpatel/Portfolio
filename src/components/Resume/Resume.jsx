@@ -4,7 +4,7 @@ export const Resume = ()=>{
   return <>
   <div className='container'>
     <h1 className='resume'>Resume</h1>
-    <a href="../../../assets/Resume/Resume.pdf" download className='link'>Download</a>
+    <a href="../../../assets/Resume/Resume.pdf" download={Resume} className='link'>Download</a>
   </div>
   </>
 }
