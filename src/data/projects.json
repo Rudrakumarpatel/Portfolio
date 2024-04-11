@@ -2,7 +2,7 @@
   {
     "title": "Youtube Comment Analyzer Using NLP",
     "imageSrc": "projects/Comment-Analyzer.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "comments with NLP offers insights into user sentiment and trends, enhancing decision-making and customer engagement",
     "skills": ["React", "Express", "Node","python","MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Rudrakumarpatel/YT_Comment_-Analyzer.git"
@@ -18,7 +18,7 @@
   {
     "title": "Chat App",
     "imageSrc": "projects/Chat-App.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Building a chat application offers benefits such as facilitating real-time communication, fostering collaboration, and enhancing customer support.",
     "skills": ["React", "Spring boot","MySQL"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Rudrakumarpatel/Full-stack-project-springboot-ChatApp.git"
