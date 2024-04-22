@@ -5,17 +5,12 @@ import "./index.css";
 import { BrowserRouter, RouterProvider, createBrowserRouter } from "react-router-dom";
 import "@fontsource/outfit";
 import "@fontsource/roboto";
-import {Resume} from "./components/Resume/Resume.jsx";
 
 const route = createBrowserRouter([
   {
     path: "/",
     element:<App></App>
   },
-  // {
-  //   path:"/Resume",
-  //   element:<Resume></Resume> 
-  // }
 ])
 
 ReactDOM.createRoot(document.getElementById("root")).render(
