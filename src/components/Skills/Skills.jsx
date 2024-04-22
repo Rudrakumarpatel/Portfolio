@@ -31,7 +31,8 @@ export const Skill = () => {
                   alt={`${historyItem.organisation} Logo`}
                 />
                 <div className={styles.historyItemDetails}>
-                  <h3>{`${historyItem.role}, ${historyItem.organisation}`}</h3>
+                  
+                  <h3>{`${historyItem.role}, ${historyItem.organisation}`}  <a href="../../../assets/certificates/Full-stack-dev(AICTE).pdf" style={{fontSize:"19px",paddingLeft:"5px",listStyle:"none",textDecoration:"none",color:"red"}}>Certificate</a></h3>
                   <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
                   <ul>
                     {historyItem.experiences.map((experience, id) => {

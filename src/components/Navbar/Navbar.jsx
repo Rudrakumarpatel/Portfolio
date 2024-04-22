@@ -39,9 +39,9 @@ export const Navbar = () => {
           <li>
             <a href="#contact">Contact</a>
           </li>
-          {/* <li>
-            <Link to="/Resume">Resume</Link>
-          </li> */}
+          <li>
+          <a href="../../../assets/Resume/Resume.pdf">Resume</a>
+          </li>
         </ul>
       </div>
     </nav>

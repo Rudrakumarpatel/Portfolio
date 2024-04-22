@@ -2,11 +2,13 @@
   {
     "role": "Full Stack Development Intern",
     "organisation": "AICTE",
-    "startDate": "Feb, 2024",
-    "endDate": "Present",
+    "startDate": "Feb, 20-FEb-2024",
+    "endDate": "20-April-2024",
     "experiences": [
-      "Create Music App Using Django"
+      "Create Music App Using Tailwindcss,Django"
     ],
-    "imageSrc": "history/aicte.png"
+    "certificate":"https://drive.google.com/file/d/17W9xUvybx86zK0zhOcE59cI89l9xOChK/view?usp=drive_link",
+    "imageSrc": "history/aicte.png",
+    "certificateSrc": "certificates/certificate.png"
   }
 ]
