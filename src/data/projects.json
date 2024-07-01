@@ -16,7 +16,7 @@
     "source": "https://github.com/Rudrakumarpatel/DuHacks3.0-Socai-Media-.git"
   },
   {
-    "title": "Chat App",
+    "title": "TalkWave",
     "imageSrc": "projects/Chat-App.png",
     "description": "Building a chat application offers benefits such as facilitating real-time communication, fostering collaboration, and enhancing customer support.",
     "skills": ["React","Tailwind", "Spring boot","MySQL"],
