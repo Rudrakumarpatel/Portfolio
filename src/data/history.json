@@ -1,12 +1,24 @@
 [
   {
     "role": "Full Stack Development Intern",
-    "organisation": "AICTE",
+    "organisation": "Edunet Foundation",
     "startDate": "Feb, 20-FEb-2024",
     "endDate": "20-April-2024",
     "experiences": [
-      "Create Music App Using Tailwindcss,Django"
+      "Create Full Stack Music App Using Django this is a web-based music application that offers real-time lyric."
     ],
-    "imageSrc": "history/aicte.png"
+    "imageSrc": "history/Edunet_foundation.png",
+    "Certificate":"https://drive.google.com/file/d/17W9xUvybx86zK0zhOcE59cI89l9xOChK/view?usp=drive_link"
+  },
+  {
+    "role": "Full Stack Development Intern",
+    "organisation": "Sciecore Consulting Services",
+    "startDate": "Jan, 1-Jan-2025",
+    "endDate": "Continue",
+    "experiences": [
+      "Currently working as a Back-End Developer intern on the Travel Online Booking App, focusing on Node.js, SQL, and API development while also handling front-end tasks with React."
+    ],
+    "imageSrc": "history/Sciecore.png",
+    "Certificate":""
   }
 ]

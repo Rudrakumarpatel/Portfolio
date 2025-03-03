@@ -6,6 +6,7 @@ import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 import React from "react";
+import Experience from "./components/Skills/Experience";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Hero />
       <About />
       <Skill />
+      {/* <Experience/> */}
       <Projects />
       <Contact />
     </div>
